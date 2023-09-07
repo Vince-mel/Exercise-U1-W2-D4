@@ -98,8 +98,8 @@ const epify = function (string) {
     }
   }
   
-console.log("CIAOO!! ")
-console.log()
+console.log(epify("CIAOO!! "))
+console.log(epify("EPICODE CIAOO!!"))
 
 
 
